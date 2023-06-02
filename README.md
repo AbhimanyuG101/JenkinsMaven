@@ -1,6 +1,6 @@
-# Jenkins_Projects 1
+# Jenkins_Projects
 
-This is Maven Project 1
+This is Maven Project
 
 - Free Style Project
 - Pipeline As Code - First real pipeline demo with the pipeline-as-code concept
